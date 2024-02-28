@@ -1,0 +1,3 @@
+# yaml config for the library hours and borrow limit
+opening_hours: "9 AM - 11PM"
+max_borrow_limit: 1
